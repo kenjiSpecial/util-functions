@@ -1,11 +1,11 @@
 {
   "name": "ks-utils",
   "description": "util function",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "main",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/kenjiSpecial/util-functions.git"
   },
   "keywords": [
   ],
