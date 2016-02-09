@@ -1,0 +1,13 @@
+{
+  "name": "ks-utils",
+  "description": "util function",
+  "version": "0.0.1",
+  "main": "main",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+  ],
+  "license": "MIT"
+}
